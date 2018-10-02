@@ -1,4 +1,4 @@
-var config = require('/mongodbFunConfig');
+var config = require('./mongodbFunConfig');
 
 
 
